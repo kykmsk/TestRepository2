@@ -1,3 +1,3 @@
-# TestRepository2コンフリクトテストしようかと
+# TestRepository2のテスト・テスト
 
 
