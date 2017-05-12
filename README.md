@@ -1,3 +1,3 @@
-# TestRepository2のテスト・テスト
+# TestRepository2テスト
 
 
